@@ -1,4 +1,4 @@
 # pk-
 First git repository
 <br>
-Auther-Praveen kumar singh
+Author-Praveen kumar singh
